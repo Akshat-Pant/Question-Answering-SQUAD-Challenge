@@ -100,8 +100,8 @@ def clean(doc):
 # In[476]:
 
 
-train= pd.read_csv('/Users/akshatpant/Desktop/UMD/Sem 3/Comp Ling/Project/train.csv')
-test= pd.read_csv('/Users/akshatpant/Desktop/UMD/Sem 3/Comp Ling/Project/test.csv')
+train= pd.read_csv('..../train.csv')
+test= pd.read_csv('..../test.csv')
 
 
 # In[477]:
